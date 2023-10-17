@@ -6,7 +6,7 @@ package modelo;
 import java.util.List;
 /**
  *
- * @author Usuario
+ * @author juan david
  */
 public class implementadora implements ICalcular {
 
