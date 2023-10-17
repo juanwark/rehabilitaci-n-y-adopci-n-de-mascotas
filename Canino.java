@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author Usuario
+ * @author juan david
  */
 public class Canino extends Mascota{
     protected int nivelEntrenamiento;
